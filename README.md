@@ -23,7 +23,7 @@ This project presents an interactive Power BI dashboard analyzing Udemy courses 
 - DAX  
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+(Screenshot 2026-03-24 170333.png)
 
 ## 📁 Project File
 - Udemy Courses Analysis Power BI Report.pbix
